@@ -1,0 +1,54 @@
+@import url("https://fonts.googleapis.com/css2?family=Bree+Serif&family=Caveat:wght@400;700&family=Lobster&family=Monoton&family=Open+Sans:ital,wght@0,400;0,700;1,400;1,700&family=Playfair+Display+SC:ital,wght@0,400;0,700;1,700&family=Playfair+Display:ital,wght@0,400;0,700;1,700&family=Roboto:ital,wght@0,400;0,700;1,400;1,700&family=Source+Sans+Pro:ital,wght@0,400;0,700;1,700&family=Work+Sans:ital,wght@0,400;0,700;1,700&display=swap");
+.heading{
+    text-align: center;
+    font-style: oblique;
+    font-size: large;
+    font-weight: 40px;
+    color: white;
+}
+.card{
+    background-image: url("https://th.bing.com/th?id=OIP.yDjQ_Y1EFDQX8EA_BbZUnwHaE8&w=306&h=204&c=8&rs=1&qlt=90&o=6&dpr=1.5&pid=3.1&rm=2");
+    text-align: center;
+    background-size: cover;
+    height: 70vh;
+    width: 50vw;
+}
+.main-heading{
+    text-align: center;
+    font-style: italic;
+    font-size: medium;
+    font-weight: 50px;
+    color: white;
+}
+.side-heading{
+    text-align:left;
+    font-style: normal;
+    font-size: large;
+    font-weight: 30px;
+    color: whitesmoke;
+}
+.paragraph{
+    text-align: left;
+    font-style: normal;
+    font-weight: 20px;
+    font-size: medium;
+    color: whitesmoke;
+}
+.box{
+   border-radius: 0px;
+   border-width: 2px;
+   border-color: black;
+   background-color: yellow;
+   height: 18px;
+   width: 16px;
+   width: 6vw;
+   height: 6vh;
+   font-style: italic;
+}
+.paragraph2{
+    text-align: center;
+    font-style: normal;
+    font-weight: 30px;
+    color: white;
+    text-decoration: underline;
+}
